@@ -1,6 +1,14 @@
-# Quizapp
+# QuizApp
+
+This my the final project for the [CS50x course](https://cs50.harvard.edu/x/2023/).
+The QuizApp shall allow users to test their knowledge about the contents of the CS50 course.
+
+# How to use
+
+## Angular Version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+_Mathjax seems to support only Angular v14 so far (May 2023)._
 
 ## Development server
 
